@@ -2,7 +2,11 @@ Hello
 Hello
 Hello
 Hello
+<<<<<<< HEAD
 Hello
+=======
+Bye!
+>>>>>>> test-branch
 Hello
 Hello
 Hello
