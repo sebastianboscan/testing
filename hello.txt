@@ -2,7 +2,15 @@ Hello
 Hello
 Hello
 Hello
+<<<<<<< HEAD
 Bye!
+=======
+<<<<<<< HEAD
+Hello
+=======
+Bye!
+>>>>>>> test-branch
+>>>>>>> cd9816d3c678cdf73ae34b781e2659277f1acc06
 Hello
 Hello
 Hello
